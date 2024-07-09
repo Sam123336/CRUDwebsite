@@ -1,6 +1,6 @@
 <h1>CRUD Website</h1>
 
-<p>Welcome to the CRUD Website project! This project demonstrates a basic implementation of Create, Read, Update, and Delete (CRUD) operations using [your chosen technologies, e.g., HTML, CSS, JavaScript, Node.js, etc.].</p>
+<p>Welcome to the CRUD Website project! This project demonstrates a basic implementation of Create, Read, Update, and Delete (CRUD) operations using [your chosen technologies, e.g., ejs, CSS, JavaScript,Mongodb, Node.js, etc.].</p>
 
 <h2>Live Demo</h2>
 <p>Check out the live demo of the project: <a href="https://crudwebsite-2.onrender.com/">https://crudwebsite-2.onrender.com/</a></p>
